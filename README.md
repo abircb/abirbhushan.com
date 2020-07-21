@@ -1,18 +1,12 @@
 # abirbhushan.com
 
+[Deployment script](https://github.com/abircb/abirbhushan.com/blob/master/deploy/run.sh)
+
 ## Project setup
 
 ```
 yarn install
 ```
-
-### Automated deployment
-
-```
-yarn deploy
-```
-
-[the script](https://github.com/abircb/abirbhushan.com/blob/master/deploy/run.sh)
 
 ### Compiles and hot-reloads for development
 
@@ -30,6 +24,12 @@ yarn build
 
 ```
 yarn lint
+```
+
+### Automated deployment
+
+```
+yarn deploy
 ```
 
 ### Customize configuration
