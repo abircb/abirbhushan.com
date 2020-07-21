@@ -6,13 +6,13 @@
 yarn install
 ```
 
-### Deploy to master
+### Automated deployment
 
 ```
 yarn deploy
 ```
 
-[The Script](https://github.com/abircb/abircb.github.io/blob/dev/deploy/run.js)
+[the script](https://github.com/abircb/abirbhushan.com/blob/master/deploy/run.sh)
 
 ### Compiles and hot-reloads for development
 
