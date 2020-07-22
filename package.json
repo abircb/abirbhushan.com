@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "node deploy/run.js"
+    "deploy": "./deploy/run.sh"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
