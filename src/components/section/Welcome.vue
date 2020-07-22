@@ -38,11 +38,11 @@
 <style scoped lang="scss">
   .welcome {
     align-items: center;
+    text-align: center;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
     justify-content: center;
-    text-align: center;
 
     h1 {
       font-size: 29px;
@@ -57,15 +57,13 @@
     }
 
     .media-panel {
-      display: flex;
-      max-width: 600px;
-      padding-top: 2%;
-      align-items: center;
-      justify-content: center;
-
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      align-content: center;
+      padding-top: 1em;
       .col {
-        width: 25%;
-        padding: 25% 75% 75% 75%;
+        padding-left: 1.5em;
+        padding-right: 1.5em;
       }
     }
   }
