@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <SupportingImage class="image" :sectionKey="sectionKey" v-if="!mobile" />
+    <SupportingImage v-if="!mobile" class="image" :section-key="sectionKey" />
     <Content
       class="content"
-      :sectionKey="sectionKey"
+      :section-key="sectionKey"
       @change-section="handleChangeSection"
     />
   </div>
@@ -28,6 +28,15 @@
       mobile: false,
       sectionKey: SectionKeys[0],
     }),
+    created() {
+      if (!mobileMediaQuery) return
+      this.testMediaQuery(mobileMediaQuery)
+      mobileMediaQuery.addListener(this.testMediaQuery)
+    },
+    unmounted() {
+      if (!mobileMediaQuery) return
+      mobileMediaQuery.removeListener(this.testMediaQuery)
+    },
     methods: {
       handleChangeSection(sectionKey) {
         const section = Sections.get(sectionKey)
@@ -41,15 +50,6 @@
       testMediaQuery(e) {
         this.mobile = e.matches
       },
-    },
-    created() {
-      if (!mobileMediaQuery) return
-      this.testMediaQuery(mobileMediaQuery)
-      mobileMediaQuery.addListener(this.testMediaQuery)
-    },
-    unmounted() {
-      if (!mobileMediaQuery) return
-      mobileMediaQuery.removeListener(this.testMediaQuery)
     },
   }
 </script>

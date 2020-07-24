@@ -22,7 +22,7 @@
       position="Virtual Reality (VR) Developer"
       :from="new Date(2019, 9)"
       :to="new Date(2020, 3)"
-      partTime
+      part-time
     >
       <li>
         Worked in a team of 3 to develop a software solution for the company as
@@ -75,7 +75,7 @@
       position="Programming Mentor"
       :from="new Date(2019, 8)"
       :to="new Date(2020, 2)"
-      partTime
+      part-time
     >
       <li>
         Organised and led weekly tutorials for 8 first-year undergraduate

@@ -17,7 +17,7 @@
     render() {
       const { icon: Icon, title } = this.section
 
-      if (title == null) {
+      if (title === null) {
         return null
       }
 

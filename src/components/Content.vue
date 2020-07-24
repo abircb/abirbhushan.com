@@ -5,7 +5,7 @@
       ref="section"
       :key="key"
       :current="key === sectionKey"
-      :sectionKey="key"
+      :section-key="key"
     />
   </div>
 </template>

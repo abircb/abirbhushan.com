@@ -48,7 +48,7 @@
     },
     methods: {
       formatDate(d) {
-        if (d == null) {
+        if (d === null) {
           return 'Present'
         }
 
