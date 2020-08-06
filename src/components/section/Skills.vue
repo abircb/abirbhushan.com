@@ -21,7 +21,7 @@
             <li>Matplotlib</li>
             <li>Seaborn</li>
           </ul>
-        </ul> -->
+        </ul>-->
         <li>Java</li>
         <li>JavaScript</li>
         <ul>
@@ -56,16 +56,12 @@
     --->
 
     <div class="col">
-      <h2>Technologies</h2>
+      <h2>Tools and Technologies</h2>
       <ul>
         <li>Version Control</li>
         <ul>
           <li>Git</li>
-        </ul>
-        <li>Dependency Management</li>
-        <ul>
-          <li>PIP, Conda</li>
-          <li>NPM</li>
+          <li>Mercurial</li>
         </ul>
         <li>DevOps</li>
         <ul>
@@ -73,6 +69,8 @@
           <li>Maven</li>
           <li>Travis CI</li>
           <li>Jenkins</li>
+          <li>Webpack</li>
+          <li>Gulp</li>
         </ul>
       </ul>
     </div>
