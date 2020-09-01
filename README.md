@@ -1,7 +1,5 @@
 # abirbhushan.com
 
-[Deployment script](https://github.com/abircb/abirbhushan.com/blob/master/deploy/run.sh)
-
 ## Project setup
 
 ```
