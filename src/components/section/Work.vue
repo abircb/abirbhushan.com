@@ -47,7 +47,7 @@
         its VR experience after each subsequent iteration.
       </li>
       <li>
-        Completed a successful handover to the Innovation and New Ventures team
+        Completed a successful handover to the Innovations and New Ventures team
         at the company's London offices, where Autónomo is being upgraded and
         optimised.
       </li>
@@ -64,10 +64,11 @@
         users.
       </li>
       <li>
-        Prototyped <code>Lexicon</code> — an online platform for meeting new
-        people from different ethnic backgrounds and learning about their
-        cultures and lifestyle — using React.js and Flask, in collaboration with
-        engineers at Facebook London.
+        Prototyped
+        <code>Lexicon</code> — an online platform for meeting new people from
+        different ethnic backgrounds and learning about their cultures and
+        lifestyle — using React.js and Flask, in collaboration with engineers at
+        Facebook London.
       </li>
     </Company>
     <Company
