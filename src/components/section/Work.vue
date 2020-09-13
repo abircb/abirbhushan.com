@@ -65,7 +65,7 @@
       </li>
       <li>
         Prototyped
-        <code>Lexicon</code> — an online platform for meeting new people from
+        <code>Geocon</code> — an online platform for meeting new people from
         different ethnic backgrounds and learning about their cultures and
         lifestyle — using React.js and Flask, in collaboration with engineers at
         Facebook London.
