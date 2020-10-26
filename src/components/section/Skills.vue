@@ -3,8 +3,10 @@
     <div class="col">
       <h2>Languages</h2>
       <ul>
-        <li>Python</li>
-        <!--- <ul>
+        <li>Programming languages</li>
+        <ul>
+          <li>Python</li>
+          <!--- <ul>
           <li>Flask</li>
           <li>Data Mining</li>
           <ul>
@@ -22,22 +24,30 @@
             <li>Seaborn</li>
           </ul>
         </ul>-->
-        <li>Java</li>
-        <li>JavaScript</li>
-        <ul>
-          <li>ES6+/ESNext</li>
-          <li>TypeScript</li>
-          <li>Flow</li>
-          <li>Node.js</li>
+          <li>Java</li>
+          <li>JavaScript</li>
+          <ul>
+            <li>ES6+/ESNext</li>
+            <li>TypeScript</li>
+            <li>Flow</li>
+            <li>Node.js</li>
+          </ul>
+          <li>Haskell</li>
         </ul>
-        <li>CSS</li>
+        <li>Core web development</li>
         <ul>
-          <li>SASS</li>
-          <li>LESS</li>
+          <li>HTML5</li>
+          <li>CSS</li>
+          <ul>
+            <li>SASS</li>
+            <li>LESS</li>
+          </ul>
         </ul>
-        <li>HTML5</li>
-        <li>SQL</li>
-        <li>GraphQL</li>
+        <li>Data query languages</li>
+        <ul>
+          <li>SQL</li>
+          <li>GraphQL</li>
+        </ul>
       </ul>
     </div>
 
@@ -58,6 +68,13 @@
     <div class="col">
       <h2>Tools and Technologies</h2>
       <ul>
+        <li>Frameworks</li>
+        <ul>
+          <li>React</li>
+          <li>Vue (the framework for this website!)</li>
+          <li>Flask</li>
+          <li>Express</li>
+        </ul>
         <li>Version Control</li>
         <ul>
           <li>Git</li>
@@ -67,8 +84,8 @@
         <ul>
           <li>Docker</li>
           <li>Maven</li>
-          <li>Travis CI</li>
           <li>Jenkins</li>
+          <li>Travis CI</li>
           <li>Webpack</li>
           <li>Gulp</li>
         </ul>
