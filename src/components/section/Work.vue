@@ -2,7 +2,7 @@
   <div>
     <Company
       name="Goldman Sachs"
-      position="Spring Intern"
+      position="Engineering Spring Intern"
       :from="new Date(2020, 4)"
       :to="new Date(2020, 4)"
     >
@@ -12,9 +12,9 @@
       </li>
       <li>
         Shadowed under Global Investment Research, Global Markets, and Asset
-        Management — with a focus on Engineering — and gained an in-depth
-        understanding of the different processes, requirements, and workflows at
-        the firm.
+        Management — with a focus on software engineering — and gained an
+        in-depth understanding of the different processes, requirements, and
+        workflows at the firm.
       </li>
     </Company>
     <Company

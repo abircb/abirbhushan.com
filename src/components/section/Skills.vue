@@ -5,6 +5,8 @@
       <ul>
         <li>Programming languages</li>
         <ul>
+          <li>C/C++</li>
+          <li>Java</li>
           <li>Python</li>
           <!--- <ul>
           <li>Flask</li>
@@ -24,7 +26,6 @@
             <li>Seaborn</li>
           </ul>
         </ul>-->
-          <li>Java</li>
           <li>JavaScript</li>
           <ul>
             <li>ES6+/ESNext</li>
