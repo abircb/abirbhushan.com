@@ -10,9 +10,7 @@
       <div class="dates">
         {{ formatDate(from) }} &ndash; {{ formatDate(to) }}<br />
       </div>
-      <div v-if="partTime" class="part-time">
-        Part-time
-      </div>
+      <div v-if="partTime" class="part-time">Part-time</div>
     </div>
     <div class="right">
       <slot />
