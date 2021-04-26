@@ -1,6 +1,24 @@
 <template>
   <div>
     <Company
+      name="UCL"
+      position="Programming Mentor"
+      :from="new Date(2019, 8)"
+      :to="new Date(2021, 2)"
+      part-time
+    >
+      <li>
+        Organised and led weekly tutorials for 8 first-year undergraduate
+        Computer Science students on the Bachelor's and the Integrated Master's
+        programme.
+      </li>
+      <li>
+        Helped them build a foundation in the subject by assisting them with
+        their Programming (C, Haskell, Java, and Python) and Logic (Theory of
+        Computation and Compilers) modules.
+      </li>
+    </Company>
+    <Company
       name="Goldman Sachs"
       position="Engineering Spring Intern"
       :from="new Date(2020, 4)"
@@ -69,24 +87,6 @@
         different ethnic backgrounds and learning about their cultures and
         lifestyle — using React.js and Flask, in collaboration with engineers at
         Facebook London.
-      </li>
-    </Company>
-    <Company
-      name="UCL"
-      position="Programming Mentor"
-      :from="new Date(2019, 8)"
-      :to="new Date(2020, 2)"
-      part-time
-    >
-      <li>
-        Organised and led weekly tutorials for 8 first-year undergraduate
-        Computer Science students on the Bachelor's and the Integrated Master's
-        programme.
-      </li>
-      <li>
-        Helped them build a foundation in the subject by assisting them with
-        their Programming (C, Haskell, Java, and Python) and Logic (Theory of
-        Computation and Compilers) modules.
       </li>
     </Company>
 
