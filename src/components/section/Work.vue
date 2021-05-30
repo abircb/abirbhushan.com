@@ -1,6 +1,16 @@
 <template>
   <div>
     <Company
+      name="Goldman Sachs"
+      position="Software Engineering Intern"
+      :from="new Date(2021, 5)"
+    >
+      <li>
+        10-week internship in the Controllers Technology team at their London
+        headquarters.
+      </li>
+    </Company>
+    <Company
       name="UCL"
       position="Programming Mentor"
       :from="new Date(2019, 8)"
@@ -66,7 +76,7 @@
       </li>
       <li>
         Completed a successful handover to the Innovations and New Ventures team
-        at the company's London offices, where Autónomo is being upgraded and
+        at the company's London office, where Autónomo is being upgraded and
         optimised.
       </li>
     </Company>

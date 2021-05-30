@@ -72,7 +72,7 @@
         <li>Frameworks</li>
         <ul>
           <li>React</li>
-          <li>Vue (the framework for this website!)</li>
+          <li>Vue (the framework used to build this website)</li>
           <li>Flask</li>
           <li>Express</li>
         </ul>
