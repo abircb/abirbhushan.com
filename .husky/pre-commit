@@ -2,18 +2,7 @@
 . "$(dirname "$0")/_/husky.sh"
 
 # liniting (errors only)
-eslint --quiet --ext .js,.vue .
+npx eslint --quiet --ext .js,.vue .
 
 # formatting
 npx prettier . --write
-
-# commit status
-git status
-
-# committing changes
-git add .
-git status
-git commit -m "$1"
-
-# pushing changes
-git push origin master

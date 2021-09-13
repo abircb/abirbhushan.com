@@ -7,12 +7,10 @@
       :to="new Date(2021, 7)"
     >
       <li>
-        10-week internship in the Controllers Engineering division at their London
-        headquarters.
+        10-week internship in the Controllers Engineering division at their
+        London headquarters.
       </li>
-      <li>
-        Received an offer for a New Analyst role, starting summer 2022.
-      </li>
+      <li>Received an offer for a New Analyst role, starting summer 2022.</li>
     </Company>
     <Company
       name="UCL"
