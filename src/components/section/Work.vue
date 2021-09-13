@@ -2,12 +2,16 @@
   <div>
     <Company
       name="Goldman Sachs"
-      position="Software Engineering Intern"
+      position="Engineering Summer Analyst"
       :from="new Date(2021, 5)"
+      :to="new Date(2021, 7)"
     >
       <li>
-        10-week internship in the Controllers Technology team at their London
+        10-week internship in the Controllers Engineering division at their London
         headquarters.
+      </li>
+      <li>
+        Received an offer for a New Analyst role, starting summer 2022.
       </li>
     </Company>
     <Company

@@ -1,0 +1,9 @@
+# Ignore deps and artifacts:
+node_modules
+build
+coverage
+dist
+
+# Ignore all auo-generated files:
+**/reportWebVitals.js
+**/setupTests.js
