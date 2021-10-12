@@ -10,7 +10,10 @@
         10-week internship in the Controllers Engineering division at their
         London headquarters.
       </li>
-      <li>Received an offer for a New Analyst role, starting summer 2022.</li>
+      <li>
+        Received an offer for a New Analyst role, starting summer 2022, in the
+        Global Markets division.
+      </li>
     </Company>
     <Company
       name="UCL"
