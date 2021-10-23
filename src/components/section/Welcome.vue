@@ -1,7 +1,7 @@
 <template>
   <div class="welcome">
     <h1>Abir Bhushan</h1>
-    <h3>Computer Science Undergraduate at UCL</h3>
+    <h3>Computer Science Master's at UCL</h3>
 
     <div class="media-panel">
       <div class="col">
