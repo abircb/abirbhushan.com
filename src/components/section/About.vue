@@ -2,10 +2,9 @@
   <div class="content">
     <p>
       Born and raised in New Delhi, I am currently exploring the realms of
-      Computer Science and Engineering as an undergraduate at University College
+      Computer Science and Engineering as a postgraduate at University College
       London (UCL). I enjoy designing and developing — breaking and optimising —
-      all kinds of software, and I am particularly interested in (Full-stack)
-      Web Development and Machine Learning.
+      all kinds of software, and I am particularly interested in Machine Learning and Blockchain technology.
     </p>
     <p>
       <strong>Featured</strong>: 🦠

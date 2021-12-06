@@ -1,8 +1,7 @@
 <template>
   <div class="contact">
     <p>
-      If you think my skills could be of use or simply have something
-      interesting to discuss,
+      If you have something interesting to discuss,
     </p>
     <p>
       drop me a line at
