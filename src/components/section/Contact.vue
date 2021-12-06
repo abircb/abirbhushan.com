@@ -1,8 +1,6 @@
 <template>
   <div class="contact">
-    <p>
-      If you have something interesting to discuss,
-    </p>
+    <p>If you have something interesting to discuss,</p>
     <p>
       drop me a line at
       <a href="mailto:bhushan.abir@gmail.com">bhushan.abir@gmail.com</a>
