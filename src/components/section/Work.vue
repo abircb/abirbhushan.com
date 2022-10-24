@@ -2,7 +2,16 @@
   <div>
     <Company
       name="Goldman Sachs"
-      position="Engineering Summer Analyst"
+      position="Analyst"
+      :from="new Date(2022, 6)"
+    >
+      <li>
+        Global Markets.
+      </li>
+    </Company>
+    <Company
+      name="Goldman Sachs"
+      position="Summer Analyst"
       :from="new Date(2021, 5)"
       :to="new Date(2021, 7)"
     >
@@ -19,7 +28,7 @@
       name="UCL"
       position="Programming Mentor"
       :from="new Date(2019, 8)"
-      :to="new Date(2021, 2)"
+      :to="new Date(2022, 2)"
       part-time
     >
       <li>
@@ -35,7 +44,7 @@
     </Company>
     <Company
       name="Goldman Sachs"
-      position="Engineering Spring Intern"
+      position="Spring Intern"
       :from="new Date(2020, 4)"
       :to="new Date(2020, 4)"
     >

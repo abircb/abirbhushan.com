@@ -1,16 +1,14 @@
 <template>
   <div class="content">
     <p>
-      Born and raised in New Delhi, I am currently exploring the realms of
-      Computer Science and Engineering as a postgraduate at University College
+      Born and raised in New Delhi, I am a postgraduate in Computer Science from University College
       London (UCL). I enjoy designing and developing — breaking and optimising —
-      all kinds of software, and I am particularly interested in Machine
-      Learning and Blockchain technology.
+      all kinds of software, and I am particularly interested in Quantitative Engineering and large-scale data optimisation problems.
     </p>
     <p>
-      <strong>Featured</strong>: 🦠
-      <a href="https://tinyurl.com/y9vzmdx3" target="_blank"
-        >COVID-19 Footprint | Coronavirus Live Tracker</a
+      <strong>Featured</strong>: 🔎
+      <a href="https://chrome.google.com/webstore/detail/search-github/fbdfmneommmclhkndkhdagkcebgekkna?hl=en&authuser=1" target="_blank"
+        >Search GitHub | Advanced Open Source Search</a
       >
     </p>
     <!--

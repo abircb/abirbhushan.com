@@ -47,7 +47,7 @@
       >: Node.js' <code>require</code> on steroids.
     </p>
     <p>
-      🔍
+      🔎
       <a href="https://tinyurl.com/y7lcg8ze" target="_blank">Search GitHub</a>:
       A Chrome extension that allows a user to construct powerful queries to
       search GitHub repositories, code, marketplace, etc. using 24 different

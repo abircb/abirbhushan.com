@@ -5,8 +5,8 @@
       <ul>
         <li>Programming languages</li>
         <ul>
-          <li>C/C++</li>
           <li>Java</li>
+          <li>C/C++</li>
           <li>Python</li>
           <!--- <ul>
           <li>Flask</li>
@@ -47,6 +47,8 @@
         <li>Data query languages</li>
         <ul>
           <li>SQL</li>
+          <li>Elasticsearch DSL</li>
+          <li>PromQL</li>
           <li>GraphQL</li>
         </ul>
       </ul>
@@ -71,6 +73,8 @@
       <ul>
         <li>Frameworks</li>
         <ul>
+          <li>Spring</li>
+          <li>Django</li>
           <li>React</li>
           <li>Vue (the framework used to build this website)</li>
           <li>Flask</li>
@@ -85,10 +89,11 @@
         <ul>
           <li>Docker</li>
           <li>Maven</li>
-          <li>Jenkins</li>
-          <li>Travis CI</li>
           <li>Webpack</li>
           <li>Gulp</li>
+          <li>GitLab</li>
+          <li>Kubernetes</li>
+          <li>S3</li>
         </ul>
       </ul>
     </div>
